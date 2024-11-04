@@ -25,4 +25,5 @@
 # New York
 ![alt text](image-6.png)
 
-# Hudson Stuck (2019) Fuente StockX Sneaker Data Contest. Kaggle. Sitio web: https://www.kaggle.com/datasets/hudsonstuck/stockx-data-contest
+# Fuente 
+# Hudson Stuck (2019) StockX Sneaker Data Contest. Kaggle. Sitio web: https://www.kaggle.com/datasets/hudsonstuck/stockx-data-contest
